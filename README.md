@@ -1,2 +1,3 @@
 # MyFirstRepository
-This is a test for Design of Software Class. 
+This is a test to see how version control works.
+
