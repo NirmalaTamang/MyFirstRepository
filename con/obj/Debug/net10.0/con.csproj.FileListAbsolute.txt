@@ -1,0 +1,15 @@
+/workspaces/MyFirstRepository/con/bin/Debug/net10.0/con
+/workspaces/MyFirstRepository/con/bin/Debug/net10.0/con.deps.json
+/workspaces/MyFirstRepository/con/bin/Debug/net10.0/con.runtimeconfig.json
+/workspaces/MyFirstRepository/con/bin/Debug/net10.0/con.dll
+/workspaces/MyFirstRepository/con/bin/Debug/net10.0/con.pdb
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/con.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/con.AssemblyInfoInputs.cache
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/con.AssemblyInfo.cs
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/con.csproj.CoreCompileInputs.cache
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/con.sourcelink.json
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/con.dll
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/refint/con.dll
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/con.pdb
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/con.genruntimeconfig.cache
+/workspaces/MyFirstRepository/con/obj/Debug/net10.0/ref/con.dll
